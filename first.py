@@ -5,3 +5,4 @@ print(a)
 print(b)
 
 c = 'making changes in master file to understand conflict with final branch'
+c = 'adding a commit to final branch'
